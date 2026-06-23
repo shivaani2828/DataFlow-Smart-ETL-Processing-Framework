@@ -169,9 +169,4 @@ This mimics **real company ETL workflows** used before dashboards or ML models.
 
 ---
 
-## 📞 Contact
 
-**Divith Raju**
-🎓 B.Tech – Artificial Intelligence & Data Science (2026)
-📍 Bangalore, India
-🔗 GitHub: [https://github.com/divithraju](https://github.com/divithraju)
