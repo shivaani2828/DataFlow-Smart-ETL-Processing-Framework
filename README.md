@@ -67,8 +67,7 @@ Raw CSV / Input Data
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/divithraju/divith-raju-Customer-Sales-ETL-Pipeline.git
-cd divith-raju-Customer-Sales-ETL-Pipeline
+git clone https://https://github.com/shivaani2828/DataFlow-Smart-ETL-Processing-Framework
 ```
 
 ---
