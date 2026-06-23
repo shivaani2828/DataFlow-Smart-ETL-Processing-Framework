@@ -67,7 +67,7 @@ Raw CSV / Input Data
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://https://github.com/shivaani2828/DataFlow-Smart-ETL-Processing-Framework
+git clone https://github.com/shivaani2828/DataFlow-Smart-ETL-Processing-Framework
 ```
 
 ---
